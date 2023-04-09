@@ -1,0 +1,4 @@
+{
+  "browserType": "chrome",
+  "baseUrl": "https://www.lambdatest.com/selenium-playground/"
+}
