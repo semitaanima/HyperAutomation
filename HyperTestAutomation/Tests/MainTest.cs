@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework.Internal;
 
-namespace Undertest
+namespace HyperTestAutomation
 {
     [TestFixture]
     public class MainTest : BaseTest

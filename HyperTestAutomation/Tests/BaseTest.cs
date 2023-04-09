@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace Undertest
+namespace HyperTestAutomation
 {
     public class BaseTest
     {
