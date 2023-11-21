@@ -11,6 +11,8 @@ namespace HyperTestAutomation
             MainPage.GoTo();
             MainPage.AssertNavigated();
             LoggingService.LogInformation("The test has passed successfully!");
+
+            //Mutlu e lek
         }
     }
 }
